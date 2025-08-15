@@ -69,7 +69,7 @@ Adafruit SSD1306
 ### Breadboard Version
 ![Breadboard version](assets/Breadboard_version.png)
 
-### Hardware Setup
+### Soldered Prototype Version
 ![Soldered version](assets/Soldered_prototype.png)
 
 ## Display Layout
